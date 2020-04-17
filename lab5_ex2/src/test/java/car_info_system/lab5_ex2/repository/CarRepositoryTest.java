@@ -6,9 +6,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 import org.springframework.boot.test.autoconfigure.orm.jpa.TestEntityManager;
 
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.BeforeAll;
-
 import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
@@ -24,7 +21,7 @@ public class CarRepositoryTest {
 
 
     @Test
-    public void whenFindCarByName_returnMaker() {
+    public void whenFindCarByName_returnCar() {
 
         Car save_car = entityManager.persistAndFlush(new Car("prius","toyota")); // insert
 
@@ -33,8 +30,6 @@ public class CarRepositoryTest {
 
         assertThat(car.getName()).isEqualTo(save_car.getName());
 
-        Car found = carRepository.findByName("outro");
-        assertThat(found).isNull();
     }
 
     @Test
