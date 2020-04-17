@@ -43,6 +43,8 @@ public class CarControllerTest {
                 .andExpect(status().isOk())
         .andExpect(jsonPath("name").value("prius"));
 
+       verify(carService, VerificationModeFactory.times(1)).getCarDetails(anyString());reset(carService);
+
  
 
     }
