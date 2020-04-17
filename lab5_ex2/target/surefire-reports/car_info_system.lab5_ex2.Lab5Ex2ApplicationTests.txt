@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: car_info_system.lab5_ex2.Lab5Ex2ApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.905 s - in car_info_system.lab5_ex2.Lab5Ex2ApplicationTests
