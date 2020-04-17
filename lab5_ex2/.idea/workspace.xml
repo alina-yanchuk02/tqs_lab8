@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4a85e88-f541-415d-ab24-5597eb257921" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab1_ex2" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1_ex2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_ex2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_ex2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_ex2/target/classes/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_ex2/target/classes/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_ex2/target/classes/LocationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_ex2/target/classes/LocationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_ex2/target/classes/SearchResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_ex2/target/classes/SearchResultPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_ex2/target/test-classes/WebObjectPatternExampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_ex2/target/test-classes/WebObjectPatternExampleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/car_info_system/lab5_ex2/controllers/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/car_info_system/lab5_ex2/controllers/CarController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZrBThDCoKHKrHDEKXdk56XUB2f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ua_tqs_gs20-master/lab52CarsDemo" />
+  </component>
+  <component name="RunManager" selected="Android JUnit.CarControllerTest.whenGetCar_thenReturnCar">
+    <configuration name="CarControllerTemplateIT" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5_ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car_info_system.lab5_ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="car_info_system.lab5_ex2" />
+      <option name="MAIN_CLASS_NAME" value="car_info_system.lab5_ex2.CarControllerTemplateIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarControllerTest.whenGetCar_thenReturnCar" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5_ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car_info_system.lab5_ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="car_info_system.lab5_ex2" />
+      <option name="MAIN_CLASS_NAME" value="car_info_system.lab5_ex2.CarControllerTest" />
+      <option name="METHOD_NAME" value="whenGetCar_thenReturnCar" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarRepositoryTest.givenSetOfCars_whenFindAll_thenReturnAllCars" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5_ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car_info_system.lab5_ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="car_info_system.lab5_ex2" />
+      <option name="MAIN_CLASS_NAME" value="car_info_system.lab5_ex2.CarRepositoryTest" />
+      <option name="METHOD_NAME" value="givenSetOfCars_whenFindAll_thenReturnAllCars" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarRestControllerIT.givenCars_whenGetCars_thenStatus200" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5_ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car_info_system.lab5_ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="car_info_system.lab5_ex2" />
+      <option name="MAIN_CLASS_NAME" value="car_info_system.lab5_ex2.CarRestControllerIT" />
+      <option name="METHOD_NAME" value="givenCars_whenGetCars_thenStatus200" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarServiceTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5_ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car_info_system.lab5_ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="car_info_system.lab5_ex2" />
+      <option name="MAIN_CLASS_NAME" value="car_info_system.lab5_ex2.CarServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.CarControllerTest.whenGetCar_thenReturnCar" />
+        <item itemvalue="Android JUnit.CarServiceTest" />
+        <item itemvalue="Android JUnit.CarRestControllerIT.givenCars_whenGetCars_thenStatus200" />
+        <item itemvalue="Android JUnit.CarControllerTemplateIT" />
+        <item itemvalue="Android JUnit.CarRepositoryTest.givenSetOfCars_whenFindAll_thenReturnAllCars" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4a85e88-f541-415d-ab24-5597eb257921" name="Default Changelist" comment="" />
+      <created>1585587341397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585587341397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585605512711">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585605512711" />
+    <state x="675" y="357" width="627" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585587736050">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="675" y="357" width="627" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1585587736050" />
+    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1585588236996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1264" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1585588236996" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586616951025">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586616951025" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1585848497908">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585848497908" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1585848497907">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585848497907" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1585848497907">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585848497907" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1585848497908">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585848497908" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1586270059652">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586270059652" />
+    <state x="761" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585587563901">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="761" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585587563901" />
+    <state x="1177" y="243" width="549" height="619" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585588263845">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1177" y="243" width="549" height="619" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585588263845" />
+    <state x="1119" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1585591347725">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1119" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1585591347725" />
+  </component>
+</project>
